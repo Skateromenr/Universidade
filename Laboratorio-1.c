@@ -3,7 +3,7 @@
 
 main(){
 
-    system("color 70");
+    system("color 66");
 
     int opcao_menu,continuar = 1;
 
