@@ -1,0 +1,3 @@
+1- colocar os labs e atividade de lp1 em somente 1 repositorio
+2- passar o projeto de algoritmo para ca tbm
+  talvez com atividades e provas em python do 1 semestre
